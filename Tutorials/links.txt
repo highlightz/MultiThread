@@ -1,0 +1,6 @@
+<Multithread Design Tutorials>
+http://www.tutorialspoint.com/cplusplus/cpp_multithreading.htm
+http://easy-tutorials.net/c/creating-multi-threaded-c-code/
+https://www.tutorialcup.com/cplusplus/multithreading.htm
+http://antonym.org/2009/05/threading-with-boost---part-i-creating-threads.html
+</Multithread Design Tutorials>
